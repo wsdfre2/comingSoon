@@ -6,7 +6,7 @@ function App() {
     <div className='App'>
       <header className='App-header'>
         <img src='Gulp_Logo_3.1.jpg' />
-        <p>Coming soon ...</p>
+        <p>Coming soon ...2021</p>
       </header>
     </div>
   );
